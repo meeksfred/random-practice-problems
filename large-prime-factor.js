@@ -1,6 +1,16 @@
 'use strict';
+/*
 
-// This solution will take a long time to process!!! Answer is 6857.
+
+The prime factors of 13195 are 5, 7, 13 and 29.
+
+What is the largest prime factor of the number 600851475143 ?
+
+Answer: 6857.
+
+*/
+
+// This solution will take a long time to process!!!
 // Lots of room for improvement here.
 
 let number = 600851475143;

@@ -17,11 +17,11 @@
 //
 // console.log(finalNumber);
 //
-// let foo = [{one: 2}, {three: 4}, {five: 6}, {seven: 8}];
-//
-// Object.keys(foo).forEach(function(key){
-//   console.log(foo[key]);
-// });
+let foo = [{name: 2}, {name: 4}, {name: 6}, {name: 8}];
+
+Object.keys(foo).forEach(function(key){
+  console.log(foo[key].name);
+});
 //
 // let food = [{one: 2}, {three: 4}, {five: 6}, {seven: 8}];
 //
